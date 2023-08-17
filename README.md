@@ -29,7 +29,7 @@ Opcionalmente, añadiremos documentación de la API, para facilitar la colaborac
 
 ## 2. Demo
 
-Visita la demostración aquí: [LINK](https://github.com/U-Camp/7M_FULLSTACK_M4_PROY/tree/main/demo)
+Visita la demostración aquí: [LINK](https://github.com/UDDBootcamp/7M_FULLSTACK_M4_PROY/tree/master/demo)
 
 En esta demo, se muestra una aplicación de gestión de pedidos para restaurantes. Te recomendamos revisarla cuidadosamente antes de iniciar este proyecto, para asegurarte de que comprendes todos los requisitos.
 
