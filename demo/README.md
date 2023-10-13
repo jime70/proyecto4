@@ -33,7 +33,7 @@ Por ello, la necesidad en esta industria con aplicaciones web es latente, y, se 
 
 ## Usar el proyecto
 
--   Clona este repositorio: https://github.com/U-Camp/7M_FULLSTACK_M4_PROY.git
+-   Clona este repositorio: https://github.com/UDDBootcamp/7M_FULLSTACK_M4_PROY.git
 -   Sitúate en la carpeta de "demo".
 
 ```
